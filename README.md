@@ -11,3 +11,12 @@ Data cleaning and preparation with Python
 Database modeling and implementation with Neo4j
 Developing and consuming REST APIs with Flask
 Frontend development with React
+
+
+Installs:
+
+pip install virtualenv
+
+pip install flask
+
+pip install neo4j
